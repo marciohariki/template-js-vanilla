@@ -1,4 +1,4 @@
-import { data } from './data.js'
+import { data } from 'data'
 
 export const main = () => {
   return `${data[0]} ${data[1]}`

@@ -1,4 +1,4 @@
-import { main } from '../index'
+import { main } from 'index'
 
 describe('index', () => {
   it('should make sure that main exists', () => {
